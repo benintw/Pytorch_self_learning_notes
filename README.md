@@ -1,2 +1,3 @@
 # Pytorch_self_learning_notes
-Self learning notes ... for pytorch
+
+These are the notes i collected from books, websites ... for self-learning
